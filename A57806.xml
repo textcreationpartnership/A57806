@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at Belfast in Ireland, on the 14th day of June, 1690 by George Royse ...</title>
+            <author>Royse, George, 1654 or 5-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57806</idno>
+            <idno type="STC">Wing R2163</idno>
+            <idno type="STC">ESTC R11376</idno>
+            <idno type="EEBO-CITATION">11822939</idno>
+            <idno type="OCLC">ocm 11822939</idno>
+            <idno type="VID">49610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 547:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at Belfast in Ireland, on the 14th day of June, 1690 by George Royse ...</title>
+                  <author>Royse, George, 1654 or 5-1708.</author>
+               </titleStmt>
+               <extent>[4], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XI, 33 --  Sermons.</term>
+               <term>Faith --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:49610:1"/>
+            <pb facs="tcp:49610:1" rendition="simple:additions"/>
+            <p>Dr. <hi>ROYSE</hi>'s SERMON Preached before the KING AT <hi>BELFAST</hi> in <hi>IRELAND.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49610:2"/>
+            <pb facs="tcp:49610:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:49610:3"/>
+            <pb facs="tcp:49610:3"/>
+            <p>A SERMON Preached before the KING AT <hi>Belfaſt in Ireland,</hi> ON The 14th Day of <hi>June,</hi> 1690.</p>
+            <p>By <hi>GEORGE ROYSE,</hi> D.D.</p>
+            <p>Fellow of <hi>Oriel</hi> College in <hi>Oxon:</hi> And Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>Printed by the King's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Samuel Crouch</hi> at the Corner of <hi>Popes-Head-Alley,</hi> over-againſt the Royal Exchange. 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49610:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49610:4"/>
+            <head>A SERMON Preached before the KING.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEB.</hi> XI. And the former part of the 33d Verſe.</bibl>
+                  <p>—<hi>Who thro' Faith ſubdued Kingdoms.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>IN this Chapter you have the glorious Atchievements and memorable Acti<g ref="char:EOLhyphen"/>ons of your Fore-fathers, the Patri<g ref="char:EOLhyphen"/>archs and others ſet before your eyes: And the main Engine by which they ac<g ref="char:EOLhyphen"/>compliſh'd all their Victories was, as the Author of this Epiſtle tells us, Their <hi>Faith. By Faith,</hi> ſays he in the next Verſe, <hi>they
+<pb n="2" facs="tcp:49610:5"/>eſcaped the edge of the ſword, waxed valiant in fight, out of weakneſs were made ſtrong, turn'd to flight the armies of the aliens.</hi> And if we look back upon the Sacred Hiſtory of former Ages, 'tis obſervable, that all the great Actions and Succeſſes in the World were nothing elſe but the triumphs of a con<g ref="char:EOLhyphen"/>quering and invincible Faith.</p>
+            <p>When Might and Power have been arm'd againſt it, when Wit and Malice have com<g ref="char:EOLhyphen"/>bined to cruſh it, when Tyrants and migh<g ref="char:EOLhyphen"/>ty Men roſe up, and threatned nothing leſs than Ruin and Deſtruction to the weaker Forces, then did this <hi>Shield of Faith</hi> receive all their Batteries, maintain'd its Poſt a<g ref="char:EOLhyphen"/>gainſt all its Enemies, threw down their Walls, razed their Strong-holds, and ſcat<g ref="char:EOLhyphen"/>ter'd thoſe that delighted in Blood. Thus the Chariot and the Horſe fell, and the Ty<g ref="char:EOLhyphen"/>rant ſlept his laſt ſleep, when the <hi>Just Man lived</hi> and triumphed by his Faith. <hi>They are brought down and fallen, but we are riſen and ſtand upright,</hi> ſays the Prophet; that is, we who by a lively Faith repoſed all our Truſt and Confidence in the Name of the Lord.</p>
+            <p>
+               <pb n="3" facs="tcp:49610:5"/>
+And no wonder, that this Faith does ſub<g ref="char:EOLhyphen"/>due Kingdoms, ſince as St. <hi>John</hi> tells us,<note place="margin">1 John 5.4.</note> 
+               <hi>it overcomes the World</hi>
+            </p>
+            <p>
+               <hi>Who thro' Faith ſubdued Kingdoms.</hi> In which words we have a plain Matter of Fact related to us, <hi>viz.</hi> That the great Champions of the World did purchaſe all their Victories and Triumphs by their <hi>Faith.</hi> And here, not to run over the ſeveral Ac<g ref="char:EOLhyphen"/>ceptations of the word, by the <hi>Faith</hi> of theſe heroical Spirits ſeems more particular<g ref="char:EOLhyphen"/>ly intended, that which Divines call, <hi>fides Miraculorum;</hi> that is, a belief (wrought in them by a Divine impulſe) of God's mira<g ref="char:EOLhyphen"/>culous Aſſiſtance againſt their Enemies, or a firm perſwaſion, that he would work ſuch Miracles by their hands, and bring mighty Matters to paſs, which in the nature of things ſeem'd nowiſe probable: And in this ſenſe 'tis uſed by the Apoſtle in thoſe words, <hi>Tho' I have all Faith,</hi>
+               <note place="margin">1 Cor. 13.2.</note> 
+               <hi>ſo that I could remove Mountains,</hi> &amp;c.</p>
+            <p>But becauſe we do'nt live in an Age of Miracles now, much leſs can we pretend to ſuch extraordinary Impulſes, or ſpecial Pro<g ref="char:EOLhyphen"/>miſes on which they built their Faith, I
+<pb n="4" facs="tcp:49610:6"/>ſhall therefore take the word in a larger ſenſe, ſo as it may be applicable to us, namely, as it implies our belief of God's Pro<g ref="char:EOLhyphen"/>miſes in general made over to his Church, and our conſequent Truſt and Dependance on him for the fulfilling them: And in this ſenſe too, I hope to make it appear, that through Faith ſtill we may ſubdue King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>Inclearing of which, I ſhall obſerve this following Method:
+<list>
+                  <item>
+                     <hi>First,</hi> I ſhall ſhew in general, That our Belief and Confidence in God, is the beſt Expedient in the World to ſecure the Succeſs of our Arms, or to Subdue Kingdoms.</item>
+                  <item>
+                     <hi>Secondly,</hi> I ſhall Enquire upon what Grounds and Motives we may expect the ſame Succeſs as our Fore-fathers had.</item>
+                  <item>
+                     <hi>Thirdly,</hi> and <hi>Laſtly,</hi> What is required of us in order to this Succeſs: <hi>viz.</hi> That we follow their Examples in
+<pb n="5" facs="tcp:49610:6"/>building a lively Faith and Confidence upon God.</item>
+               </list>
+            </p>
+            <p>As to the former, That our Faith and Truſt in him is an admirable Inſtrument for ſubduing Kingdoms will appear true beyond contraction, whether we confider it in its own natural Tendency, as 'tis ſuited to ſuch an end, or in reference to God's Providence, who does uſually crown it with Victory and Triumph. Firſt, if we look upon it bare<g ref="char:EOLhyphen"/>ly in its own natural tendency, the belief and perſwaſion of an invincible Arm to aſ<g ref="char:EOLhyphen"/>ſiſt us, ſeems admirably fitted for the advance of any undertaking whether of Peace or War. The very opinion of ſuch Succours and Aſſiſtance as it gives a man a fair pro<g ref="char:EOLhyphen"/>ſpect of ſucceſs, ſo it muſt be highly inſtru<g ref="char:EOLhyphen"/>mental to it. For in the uſual courſe of things Believe and Conquer do generally go together, and a firm perſwaſion that we ſhall ſucceed, is a conſiderable ſtep to pro<g ref="char:EOLhyphen"/>mote it. The true rational Ground of which is this, That every Man's Belief is the great Spring of all his Endeavours and Undertakings, and all the World do act ei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:49610:7"/>more faintly or vigorouſly according to the perſwaſion of their own ſtrength, agreea<g ref="char:EOLhyphen"/>bly to the proſpect they form of, and the e<g ref="char:EOLhyphen"/>vent of things.</p>
+            <p>If a Soldier, through the apprehenſions of the weakneſs of his Party, be diſtracted with Fears and Doubts about the Iſſue and Conſequences of an Engagement, this as it muſt naturally ſink his Spirits, ſo it will pro<g ref="char:EOLhyphen"/>portionably ſlacken his Endeavours too. But he that is buoy'd up by the thoughts of Om<g ref="char:EOLhyphen"/>nipotence, as he muſt be fluſh'd with the ſanguine hopes of a good Iſſue, ſo he will be warm and active in purſuing it. And therefore the Belief of a Divine irreſiſtible Power, as it muſt carry a great ſtroak in the vigorous advance and application of the Means, ſo it muſt be allow'd to have a pro<g ref="char:EOLhyphen"/>portionable influence in determining the Iſ<g ref="char:EOLhyphen"/>ſues of War.</p>
+            <p>And for this reaſon, ſhould we ſuppoſe with the Atheiſt, that Providence did not interpoſe at all in our Battels and Engage<g ref="char:EOLhyphen"/>ments, yet the bare belief and confidence of it is of admirable uſe in advancing the Sword abroad, as well as preſerving its Authority at home; for be our perſwaſion either right
+<pb n="7" facs="tcp:49610:7"/>or wrong, yet ſince every man naturally does act agreeably to it, and ſince ſuch a Belief does as naturally tend to the exciting of our Induſtry and whetting our Endea<g ref="char:EOLhyphen"/>vours, conſequently it muſt be of great uſe and advantage in the Day of Battel.</p>
+            <p>And therefore whether Religion be true or falſe, yet 'tis but common prudence in a General to preſerve a due ſenſe and eſteem of it in his Soldiers, becauſe this <hi>Armor</hi> of God has a peculiar force as well as the Sword and the Spear or any other Inſtru<g ref="char:EOLhyphen"/>ment of War.</p>
+            <p>But not to talk only in general, the Power and Influence of this will be ſuffi<g ref="char:EOLhyphen"/>ciently clear'd, if we ſhew in particular, that ſuch a Belief of an Almighty Power is the only true Motive and Foundation of Mens Hope and Courage. For 'tis granted on all hands, that Hope and Courage as they are the great Vertues of a Camp, ſo in the na<g ref="char:EOLhyphen"/>tural courſe of things they bid faireſt for Succeſs, and therefore if this Religious Per<g ref="char:EOLhyphen"/>ſwaſion be the only Motive to excite theſe, the matter will be put beyond diſpute, that our Faith may do great ſervice in ſubduing Kingdoms.</p>
+            <p>
+               <pb n="8" facs="tcp:49610:8"/>
+As to the former, 'tis certain our hopes of Succeſs are always built upon our belief of it. A man can't reaſonably hope for what beſt pleaſes him, but what he firſt be<g ref="char:EOLhyphen"/>lieves may probably happen, and according to the degrees of this, our hope grows more firm as well as more rational. A ſanguine expectation of Succeſs without any grounds or reaſon may be ſtiled a fooliſh Confidence, but does not deſerve the name of Hope. And therefore then only do we hope like wiſe men, when we build it upon thoſe Pow<g ref="char:EOLhyphen"/>ers above that cannot fail us, when with the Prophet we make God alone <hi>our Hope and our Confidence,</hi> when we truſt to the <hi>ſtrength of Iſrael,</hi> and that <hi>right hand which will have the pre-eminence.</hi> This is like found<g ref="char:EOLhyphen"/>ing our Houſe upon a Rock, where the Flouds and Storms ſhall not confound our Hopes, or ruin our Confidence. But to fix it upon any other Powers, whether our own Strength, or the Conduct of a General, is like Building upon the Sand, where the unſoundneſs of the Bottom does make the Pile as precarious, as the Foundation is trea<g ref="char:EOLhyphen"/>cherous and uncertain. He that conquer'd
+<pb n="9" facs="tcp:49610:8"/>the Giant by Faith and a Pebble, has ſuffi<g ref="char:EOLhyphen"/>ciently caution'd us againſt ſuch confidence as this. <hi>Put not your trust in Princes,</hi>
+               <note place="margin">Pſal. 146.3.44.6.</note> 
+               <hi>nor in the ſon of man, in whom there is no help. I will not trust in my bow, neither ſhall my ſword ſave me.</hi> And that we may not think this a Prophetical Strain only, or a touch of Pi<g ref="char:EOLhyphen"/>ous Cant, our own reaſon does convince us, how unwarrantable that confidence is, that is founded barely upon human Suc<g ref="char:EOLhyphen"/>cours: for be our circumſtances at preſent as fair as you would have them, be your conduct or ſtrength as great as you imagine, be it far ſuperior to that of your Enemies, yet the chances of War are ſo various and uncertain, and the fate of it depends upon ſuch multiplicity of accidents, that we can never have a true bottom and ſecurity for our Hopes, unleſs they are ſetled upon an invincible Power above.</p>
+            <p>But then ſhould we ſuppoſe, that we are only equal to our Enemies, this as 'twill render the caſe in the nature of things more hazardous and doubtful, ſo it muſt leſſen our hopes and confidence: for where two Enemies ſhall appear in the Field with equal
+<pb n="10" facs="tcp:49610:9"/>Forces, as they muſt engage upon the great<g ref="char:EOLhyphen"/>eſt uncertainties, ſo they can't have any ſure grounds for their hopes, unleſs they were perſwaded that there was a God to inter<g ref="char:EOLhyphen"/>poſe, and to determine the ballance. But ſhould we put the caſe, that we are inferior to them, then to be ſure we can borrow no hopes from human Succours, becauſe the na<g ref="char:EOLhyphen"/>tural courſe of things does determine the Victory in favour of their ſide. The con<g ref="char:EOLhyphen"/>ſequence of which is, that in all the circum<g ref="char:EOLhyphen"/>ſtances of War a man can never have a ſure bottom for his confidence whilſt he depends only upon the Powers below; and therefore the Belief of an Almighty Power is the only Foundation of a Rational Hope.</p>
+            <p>And as all our Hopes of Succeſs in War are derived from the Succours of Religion, ſo our Courage too does draw all its Life and Spirits from the ſame Principle: For mens Courage muſt neceſſarily riſe and fall together with their Hopes; and men of Bravery and Valour, as the Philoſopher ob<g ref="char:EOLhyphen"/>ſerves, are always men of Hope. And there<g ref="char:EOLhyphen"/>fore as our Belief of God's Providence over us is the great Spring and Vital Principle of
+<pb n="11" facs="tcp:49610:9"/>the one, ſo likewiſe 'tis the main Inſtrument to excite the other.</p>
+            <p>To ſpeak plainly, the buſineſs of War is ſuch a hazardous Enterprize, and the pro<g ref="char:EOLhyphen"/>ſpect of Death ſo terrible, that a Soldier who has any apprehenſions of it, can't well engage with a true heart and courage, un<g ref="char:EOLhyphen"/>leſs he be perſwaded, that there is God a<g ref="char:EOLhyphen"/>bove, that will take care for him here, and reward him hereafter.</p>
+            <p>You know very well, that the main Of<g ref="char:EOLhyphen"/>fice of Courage is to moderate our Fears and Apprehenſions of Death. Now Death is an Evil too big for human nature, when we conſider it in its ſelf abſtracted from our Faith, and as there is nothing in nature that can compenſate for it, ſo nothing in meer nature ſeems equal to encounter it, for hu<g ref="char:EOLhyphen"/>man nature as ſuch muſt neceſſarily fear it, as it thinks on it; and therefore the Aſſi<g ref="char:EOLhyphen"/>ſtances of Religion as they are abſolutely neceſſary to moderate theſe Fears, ſo like<g ref="char:EOLhyphen"/>wiſe to maintain our Courage. 'Tis true indeed, a man may ruſh into the Battel with<g ref="char:EOLhyphen"/>out fear or wit, but this is not the Courage of a Man that conſiders, but of a Beaſt that
+<pb n="12" facs="tcp:49610:10"/>has no underſtanding. True Courage is always joined with the conſideration of thoſe evils which it encounters, and as <hi>Tully</hi> deſcribes it, 'tis <hi>conſider at a periculorum ſuſceptio,</hi> a deliberate and thoughtful undertaking of any danger; and therefore thoſe that take the Sword without any thoughts and apprehenſions of what they are about, do<g ref="char:cmbAbbrStroke">̄</g> make ſhew only of a Brutal Force, but can't be ſaid to exer<g ref="char:EOLhyphen"/>ciſe a true Manly Valour: And 'tis much the ſame caſe with thoſe who fight only out of a brutiſh rage and fury, for theſe diſcover only the violence of a Paſſion, not the great<g ref="char:EOLhyphen"/>neſs of Mind; and this ſort of Courage is uſually found as falſe in the Tryal and Ex<g ref="char:EOLhyphen"/>periment, as it is in the Notion. For thoſe who through a paſſionate heat and fury en<g ref="char:EOLhyphen"/>gage in Duels, are commonly the greateſt Cowards in a Camp.</p>
+            <p>All which ſeems to eſtabliſh the truth of our Aſſertion, That a Religious Belief is the Foundation of all True Bravery and Cou<g ref="char:EOLhyphen"/>rage, and conſequently the beſt Expedient to Subdue Kingdoms. And that we may not look upon this as a meer fanciful Notion, or the Idle Talk of Divines, I ſhall only
+<pb n="13" facs="tcp:49610:10"/>appeal to common experience and obſervati<g ref="char:EOLhyphen"/>on, <hi>viz.</hi> That thoſe in all Ages who have been moſt Celebrated for their Faith, have been equally admired for their courage and bravery too, as particularly the Worthies of this Chapter, and the Primitive Chriſtians. Whereas Prophane Wits and Atheiſts that have abandon'd the belief of a God, have been always lookt upon as the moſt timorous Creatures, and the greateſt Cowards in the world. And if we examine the Hiſtory of the Heathen States, 'tis obſervable, that the Succeſs of their Arms was in great meaſure advanced by their belief and confidence in their Gods.</p>
+            <p>Hence in the <hi>Roman</hi> State we find, that in all their extremities and dangers from their Enemies, they took ſanctuary at laſt in Re<g ref="char:EOLhyphen"/>ligion, and when the Souldiers ſpirits were ſinking, their Generals always took care to poſſeſs their Minds with this notion, that the Gods were on their ſide, and declared favou<g ref="char:EOLhyphen"/>rably for them. And this is the reaſon, why they ſo often produced Divine Prophecies and Oracles in favour of their undertakings, and always conſulted their Prieſts about the
+<pb n="14" facs="tcp:49610:11"/>will and pleaſure of their Gods, that by theſe counterfeit intimations of the favour of their Gods, they might raiſe their ſpirits, and give them Courage in the day of Battle. And next under Divine Providence, we may aſ<g ref="char:EOLhyphen"/>cribe the greatneſs of the <hi>Roman</hi> Empire to thoſe encouragements which they fetcht from Religion, and the belief of their Gods. A<g ref="char:EOLhyphen"/>greeably to which <hi>Matchiavel</hi> himſelf, though he was no great friend to Religion, yet in his Diſcourſes upon this ſubject, he fairly owns, that the advance of their Arms, and enlarge<g ref="char:EOLhyphen"/>ment of their State, was chiefly to be impu<g ref="char:EOLhyphen"/>ted to a ſenſe of God and Religion eſtabli<g ref="char:EOLhyphen"/>ſhed amongſt them. Such a vaſt influence hath our Faith and Belief upon the Coun<g ref="char:EOLhyphen"/>cils and endeavours of Mankind. And not to multiply teſtimonies, but to reduce all in ſhort.</p>
+            <p>In the natural courſe of things 'tis plain, that a Man's Belief in all caſes does carry a mighty ſtroak in advancing his undertakings, and particularly this perſwaſion of invincible ſuccours and aſſiſtance from above, muſt ne<g ref="char:EOLhyphen"/>ceſſarily inſpire him with an anſwerable de<g ref="char:EOLhyphen"/>gree of Courage, it muſt raiſe his hopes,
+<pb n="15" facs="tcp:49610:11"/>give life to his reſolutions, animate his endea<g ref="char:EOLhyphen"/>vours, and this will go a fair way to the taking of Cities, and ſubduing Kingdoms.</p>
+            <p>And as this Faith and belief of Gods Pro<g ref="char:EOLhyphen"/>vidence has a peculiar efficacy of it ſelf to advance our Arms, ſo by the Providence of God it is uſually attended with a ſuitable ſucceſs.</p>
+            <p>That God Almighty does interpoſe in our Battles and Engagements, is as certain, as that he does exerciſe a Providence over Mankind: for the ſucceſs of Arms and of National En<g ref="char:EOLhyphen"/>gagements is ſuch a conſiderable province, and ſo great a part of his government of the World, that we may as well queſtion, whether he intermeddles at all in Humane Affairs, as whether he does interpoſe in this. Taking it for granted then, that Providence does e<g ref="char:EOLhyphen"/>qually preſide over Camps as over Kingdoms, it is but reaſonable to ſuppoſe, that he will bleſs thoſe Arms with victory and ſucceſs, that are advanced in his Name, with a due re<g ref="char:EOLhyphen"/>gard and application to him, and determine things in favour of that ſide, who build their Faith and relyance on him. For by believing and truſting in him, we really engage him as
+<pb n="16" facs="tcp:49610:12"/>a Party for us, and by being his dependants, we entitle our ſelves to his more ſpecial care and protection: Every one we know does think himſelf obliged to ſhew a peculiar con<g ref="char:EOLhyphen"/>cern for his own Favourites and dependents, and if the meaſures of humane kindneſs do extend ſo far, much more may we conclude it from the goodneſs of God, which is infi<g ref="char:EOLhyphen"/>nitely greater than that of his Creatures. Agreeable to which we have his own aſſu<g ref="char:EOLhyphen"/>rance:<note place="margin">
+                  <hi>Prov.</hi> 29.25.</note> 
+               <hi>Who ſo putteth his truſt in the Lord, ſhall be ſafe.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 34.22.</note> 
+               <hi>And none of them that truſt in him ſhall be deſolate.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 121.7.</note> 
+               <hi>The King truſteth in the Lord, and through the mercy of the moſt high he ſhall not be moved.</hi> Where as on the other ſide, he that does not think his God worthy to be truſted, does fairly forfeit all title to his providence and protection; for 'tis but juſt with God, that he ſhould ſigna<g ref="char:EOLhyphen"/>lize himſelf in the defeat of thoſe Arms, that are bruitiſhly advanced without any ſenſe or dependance on him: And this was the uſu<g ref="char:EOLhyphen"/>al methods of his dealing with the <hi>Jews,</hi> when they truſted in God and in the ſtrength of <hi>Iſrael;</hi> he went out with their Hoſts, he fought their Battles, and ſubdued the Nations
+<pb n="17" facs="tcp:49610:12"/>round about them; but as ſoon as they fell back, and ſhook off their dependance on him, he gave them into captivity, and into the enemies hands. 'Tis true God does not exerciſe the ſame viſible diſtinguiſhing Provi<g ref="char:EOLhyphen"/>dence, in rewarding mens Faith with Tempo<g ref="char:EOLhyphen"/>ral Bleſſings, as in the days of old, but yet as he is ſtill Governour of the World, he ſeems engaged to crown the Faith and Piety of Nations with viſible ſucceſs, that by this means he may ſignalize his Providence to the World, and keep up a juſt ſenſe and eſteem for Re<g ref="char:EOLhyphen"/>ligion, by giving ſuch an open teſtimony and approbation to it. As for the vertues of pri<g ref="char:EOLhyphen"/>vate men indeed, they are not always bleſt here with good fortune and ſucceſs, becauſe in their ſingle capacities, they ſhall be ſuffi<g ref="char:EOLhyphen"/>ciently rewarded in another world. But fince publick Societies and Nations, as they are Politick collective bodies, have no other ſtage but this world, for the reward and pu<g ref="char:EOLhyphen"/>niſhment of their common vertues and vices, therefore Providence ſeems more highly con<g ref="char:EOLhyphen"/>cern'd to diſpenſe and award them in this pre<g ref="char:EOLhyphen"/>ſent life. And this has been the general ob<g ref="char:EOLhyphen"/>ſervation of the Heathen States, that their
+<pb n="18" facs="tcp:49610:13"/>Gods beſtow'd Victory and Triumphs upon Kingdoms, according to Mens Piety and de<g ref="char:EOLhyphen"/>pendance on them. Hence <hi>Tully</hi> makes a fair acknowledgment, that the <hi>Romans</hi> did not owe their Conqueſts either to a prevail<g ref="char:EOLhyphen"/>ing ſtrength, or to their own extraordinary Valour, Art, or Stratagem, but that they ſubdued the whole World by the irreſiſtible power of Religion. And <hi>Zoſimus</hi> aſcribes the fall of that Empire to the contempt of their Gods, and a diſregard to their Wor<g ref="char:EOLhyphen"/>ſhip. And if theſe be the uſual methods of Providence in rewarding the Faith and Piety of Nations, 'tis obvious to conclude, what a mighty influence our Religious belief may carry in ſubduing Kingdoms: and therefore if we would all joyntly agree in advancing our Faith and Religion together with our Arms, we ſhould have but little reaſon to doubt of the happy iſſue and ſucceſs of them.</p>
+            <p>And what grounds and encouragements we have to hope for this ſucceſs, is the ſe<g ref="char:EOLhyphen"/>cond general Head to be conſider'd.</p>
+            <p>And here whether we regard either the promiſes of God to his Church, or the con<g ref="char:EOLhyphen"/>duct and bravery of our General, whether
+<pb n="19" facs="tcp:49610:13"/>we conſider the Cauſe in which we imbark, or the Enemies which we are about to en<g ref="char:EOLhyphen"/>counter, they all ſpeak out, <hi>Be ſtrong and of a good courage ye ſhall poſſeſs the land.</hi> As to the former, what grounds we have to hope from Gods promiſes, it muſt be granted, that we have no particular promiſes made to us, that we ſhall ſubdue this or that Nation, as the Worthies of this Chapter had; but ſince it muſt be allowed, that God Almighty does exerciſe as great a care over the Chriſtian as over the Jewiſh Church, we can't well ſup<g ref="char:EOLhyphen"/>poſe, that he has left it without the ſame hopes and encouragements: We all know that in theſe laſt days he gave up his own Son, that he might purchaſe to himſelf a Church at the expence of his own Blood; and as this is a higher demonſtration of love, than ever was ſhewn to the world before, ſo it gives us moſt ſolid and rational grounds for our hopes and confidence. And as greater love than this could not be ſhewn, ſo nei<g ref="char:EOLhyphen"/>ther any greater ſecurity, than thoſe general promiſes, which he has made over to it, that he <hi>will be with it unto the ends of the world,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 28.20. <hi>Mat.</hi> 16.18.</note> 
+               <hi>and that the gates of hell ſhall not prevail a<g ref="char:EOLhyphen"/>gainſt
+<pb n="20" facs="tcp:49610:14"/>it.</hi> Which promiſes however they run only to the Church in general, yet they are no leſs ſure and infallible than the moſt ſpecial promiſes whatever, and therefore they are an equal encouragement for our Faith and Hope. How much the general intereſt of the Reformed Church and Religion does depend upon the preſent Juncture and ſuc<g ref="char:EOLhyphen"/>ceſs of things, I need not tell you; and ſince God has interpoſed his word for the Main<g ref="char:EOLhyphen"/>tenance of his True Religion in the World, we may reaſonably build our confidence on this, and face our Enemies with a true heart and courage. It was not long ſince that you ſtood by, and ſaw the ſalvation of your God, in the ſeaſonable deliverance of this National Church, when a conjured race of profeſt Enemies at home were creeping into its Bowels, and a Conclave abroad was enga<g ref="char:EOLhyphen"/>ged to make trial, how far the gates of hell could prevail againſt it.</p>
+            <p>And ſince we have this freſh experiment of a kind Providence, in that he has delive<g ref="char:EOLhyphen"/>red us, this may juſtly add ſtrength to our Faith, that he will yet deliver us. The work is already begun, and if through want
+<pb n="21" facs="tcp:49610:14"/>of Faith we don't <hi>murmur and repine in our Tents,</hi> in the power of the moſt High we ſhall not miſcarry. And as we have good hopes of Succeſs from the conſideration of thoſe promiſes, which God has made over to his Church, ſo if we look upon that great in<g ref="char:EOLhyphen"/>ſtrument next under him, whom he has em<g ref="char:EOLhyphen"/>ployed to effect it, we may magnifie ſtill the <hi>Sword of the Lord and of Gideon.</hi> A Prince, who as he was miraculouſly brought amongſt us to begin our deliverance, ſo heſeems to be acted now by a new Commiſſion from Hea<g ref="char:EOLhyphen"/>ven to complete it. A Prince who has already conquer'd <hi>by Faith,</hi> without the force of Arms or an engagement with his Enemies. In ſhort, a Prince in whoſe Conduct and Valour we might ſafely truſt, if 'twas any wiſe allowable <hi>to put our truſt in Princes:</hi> And as the preſence of his Royal Perſon, ſo the Merits of the Cauſe too do joyntly con<g ref="char:EOLhyphen"/>ſpire to give us new Courage and Reſolution. For whatever Notions ſome Men have fram'd to themſelves of the late Revolution in ge<g ref="char:EOLhyphen"/>neral, yet none of thoſe pretended ſcruples can affect us at preſent, who are engaged now againſt a Forreign <hi>French</hi> Power, and
+<pb n="22" facs="tcp:49610:15"/>an open avowed Enemy to the Kingdom. I have no time to dwell on this, but if there be any Cauſe of War, that is juſt and honourable, you may plead it now: for this is no idle Conteſt betwixt Princes about mere punctilio's of Honour, no groundleſs quarrel to enlarge your Bounds, or to ſerve the Luſt and Ambition of a General, but the glorious Defence of your Country, a<g ref="char:EOLhyphen"/>gainſt the unjuſt Arms of a violent aggreſ<g ref="char:EOLhyphen"/>ſor; the Maintenance of your Liberties, Fortunes, Laws, Religion, and whatever elſe can be ſuppoſed dear unto you; and if you don't think this a ſufficient warrant for un<g ref="char:EOLhyphen"/>ſheathing your Swords, farewel firſt the Eng<g ref="char:EOLhyphen"/>liſh Spirit, and next the Engliſh Subject too, Farewel long-adored Liberty and Property, Farewel the Proteſtant. Name and Intereſt throughout <hi>Europe,</hi> whoſe Fate muſt ſhort<g ref="char:EOLhyphen"/>ly be determin'd by the iſſue and ſucceſs of your Arms. But beſides the Merits of the Cauſe, there is one conſideration more that bids fair for ſucceſs, and that is the Enemies whom you are about to engage, the <hi>Iriſh</hi> and <hi>French</hi> Forces, the former a by-word and a proverb amongſt Nations, both for
+<pb n="23" facs="tcp:49610:15"/>their Courage as well as Underſtanding, and therefore they ſeem rather to challenge your Scorn and Contempt, than to exerciſe your Valour; the latter an Enemy, that never made any generous Conqueſts by the power of his Arms, but by that of his Money, and ow's more to the perfidiouſneſs and trea<g ref="char:EOLhyphen"/>chery of thoſe he fought with, than to his own bravery. An Enemy whoſe Titles now adorn the Engliſh Crown, as the laſting me<g ref="char:EOLhyphen"/>morials of your Fore-fathers Victories over him. In ſhort, an Enemy whoſe greatneſs as it can be aſcribed only to your Luxury and Eaſe, ſo it muſt as certainly be humbled by the recovery of your ancient Valour. Lay all theſe things together, and if they don't determine the Victory on your ſide, 'tis be<g ref="char:EOLhyphen"/>cauſe you want that Faith, which will <hi>ſub<g ref="char:EOLhyphen"/>due Kingdoms.</hi>
+            </p>
+            <p>Which brings me to the laſt thing to be conſider'd, what is required of us in order to the Succeſs of our Arms, namely that we exerciſe the ſame Faith as theſe Wor<g ref="char:EOLhyphen"/>thies did.</p>
+            <p>As our belief and truſt in God is an eter<g ref="char:EOLhyphen"/>nal duty of Natural Religion, ſo it carries
+<pb n="24" facs="tcp:49610:16"/>an indiſpenſable obligation along with it in all circumſtances and conditions whatever, but more particularly now the hazards and uncertainties of War do challenge the exer<g ref="char:EOLhyphen"/>ciſe of it in a more eminent manner. For the iſſues and chances of War are all determi<g ref="char:EOLhyphen"/>ned by a Superiour Hand, and 'tis God alone, that <hi>giveth victory unto Kings.</hi> The wiſe man has long ſince told us, that <hi>the race is not always to the ſwift, nor the battle to the ſtrong, but time and chance hapneth to all.</hi> We may talk and project for Victory and Succeſs, we may joyn hand in hand, unite our Hearts and Councils, and form the Scheme and Contrivance well, but we are aſſured at laſt, that the <hi>Counſel of the Lord 'tis that ſhall ſtand,</hi> and the right hand of the Lord will have the pre-eminence. And therefore ſince we can't ſafely build upon our own ſtrength and meaſures, 'tis but common prudence, and intereſt to advance our Faith together with our Arms, and to build our confidence on him, in whom alone true Succours are to be found. Go on then Great Prince in the power and defence of the moſt High, and enlarge thy Conqueſts over
+<pb n="25" facs="tcp:49610:16"/>thy Enemies abroad, as thou haſt already o<g ref="char:EOLhyphen"/>ver the Hearts of thy Subjects at home. And you who have the glory of ſerving under his Conduct, imitate the Faith of theſe Wor<g ref="char:EOLhyphen"/>thies here, and the bravery of him that leads you. Then when <hi>ye paſs through the waters,</hi>
+               <note place="margin">
+                  <hi>Iſai.</hi> 43.2.</note> 
+               <hi>he ſhall be with you, and through the rivers, they ſhall not overflow you.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 60.12.</note> 
+               <hi>Then through God we ſhall do great acts, for it is he that ſhall tread down our enemies.</hi>
+            </p>
+            <p>Then as by your Faith you ſhall ſubdue Kingdoms, ſo you ſhall ſecure that Faith too from all the dangers of Popery and Super<g ref="char:EOLhyphen"/>ſtition. In ſhort, then ſhall we return every man ſafe under his vine, and under his fig-tree, and rejoyce in the mighty works of our great Deliverer. Unto whoſe Providence and In<g ref="char:EOLhyphen"/>vincible Arm, which alone is able to ſecure, as well as ſubdue Kingdoms, unto his Al<g ref="char:EOLhyphen"/>mighty Providence and Protection I com<g ref="char:EOLhyphen"/>mend you all.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 4. <hi>l.</hi> 19. for our Fathers, <hi>r.</hi> theſe Worthies. <hi>p.</hi> 6. <hi>l.</hi> 3. <hi>r.</hi> and agreeably to that proſpect which they have of the iſſue and e<g ref="char:EOLhyphen"/>vent of things. <hi>p.</hi> 11. <hi>l.</hi> 19. <hi>r.</hi> as neceſſarily. <hi>p.</hi> 12. <hi>l.</hi> 13. <hi>r.</hi> the true greatneſs. <hi>p.</hi> 16. <hi>l.</hi> 23. <hi>r.</hi> uſual method.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49610:17"/>
+            <head>
+               <hi>BOOKS</hi> Printed for and Sold by <hi>Samuel Crouch,</hi> at the Corner of <hi>Popes-Head-Ally</hi> next <hi>Cornhil.</hi>
+            </head>
+            <div n="folio" type="format">
+               <head>FOLIO.</head>
+               <p>THE Hiſtory of <hi>Scotland,</hi> written in Latine by <hi>George Buchanan.</hi> Faithfull rendred into <hi>Engliſh.</hi>
+               </p>
+               <p>The Hiſtory of the Life, Reign and Death of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> II. King of <hi>England</hi> and Lord of <hi>Ireland,</hi> with the Riſe and Fall of his great Favorites, <hi>Gaveſton</hi> and the <hi>Spencers.</hi> Written by <hi>E. F.</hi> in the Year 1627. and Printed <hi>verbatim</hi> from the Original.</p>
+               <p>The Hiſtory of the Affairs of <hi>Europe</hi> in this pre<g ref="char:EOLhyphen"/>ſent Age, but more particularly of the Republick of <hi>Venice.</hi> Written in <hi>Italian</hi> by <hi>Battiſta Nani,</hi> Cava<g ref="char:EOLhyphen"/>lier and Procurator of St <hi>Mark.</hi> Engliſhed by Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Honywood,</hi> Knight.</p>
+            </div>
+            <div n="quarto" type="format">
+               <head>Q<g ref="char:V">Ʋ</g>ARTO.</head>
+               <p>A Sermon Preached before the Lord Mayor and Court of Aldermen at <hi>Guild-Hall Chappel,</hi> upon <hi>Good Friday, March</hi> 29. 1689. By <hi>George Royſe,</hi> D. D. Fellow of <hi>Oriel</hi> Colledge in <hi>Oxford,</hi> and Chaplain in Ordinary to Their Majeſties.</p>
+               <p>A Sermon Preach'd before the King and Queen at <hi>White-Hall,</hi> on the <hi>28th</hi> of <hi>December,</hi> 1690. By <hi>George Royſe,</hi> D. D. Fellow of <hi>Oriel</hi> Colledge in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi>
+                  <pb facs="tcp:49610:17"/>and Chaplain in Ordinary to Their Majeſties.</p>
+               <p>A Sermon Preached before the Deputy-Governour and the Company of Merchants trading to the <hi>Le<g ref="char:EOLhyphen"/>vant</hi> Seas, at St. <hi>Bartholomew Exchange, May</hi> 1. 1689. By <hi>Edward Smith,</hi> A. M. Fellow of <hi>Trinity Colledge</hi> near <hi>Dublin,</hi> and Preacher to the Factory at <hi>Smyrna.</hi>
+               </p>
+               <p>The True Intereſts of the Princes of <hi>Europe,</hi> in the preſent State of Affairs.</p>
+               <p>The <hi>A-la-Mode</hi> Secretary, or Practical Penman. A New Copy-Book.</p>
+               <p>Youth's Introduction to Trade, ſhewing the way for Diſpatch of Buſineſs, and making Receipts, Bills of Debt, and Bills of Parcels incident to moſt Trades, with Forms of Letters, <hi>&amp;c.</hi> very uſeful and neceſſa<g ref="char:EOLhyphen"/>ry for a Scholars Practice. Both by <hi>John Ayres,</hi> Maſter of the Writing-School near St. <hi>Pauls.</hi>
+               </p>
+            </div>
+            <div n="octavo and duodecimo" type="formats">
+               <head>OCTAVO <hi>and</hi> TWELVES.</head>
+               <p>Obſervations upon the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces</hi> of the <hi>Netherlands.</hi> By Sir <hi>William Temple</hi> of <hi>Shene</hi> in the County of <hi>Surry,</hi> Baronet, Embaſſadour at the <hi>Hague</hi> and at <hi>Aix-la-Chapelle,</hi> in the Year 1668.</p>
+               <p>
+                  <hi>De Jure Marritimo &amp; Navali.</hi> Or a Treatiſe of Af<g ref="char:EOLhyphen"/>fairs Maritime, and of Commerce. In Three Books. The Fourth Edition. By <hi>Charles Molloy.</hi>
+               </p>
+               <p>
+                  <hi>Britania Languens:</hi> Or a Diſcourſe of Trade. Shewing, that the Preſent Management of Trade in <hi>England,</hi> is the true Reaſon of the Decay of our Ma<g ref="char:EOLhyphen"/>nufactures, and the late great fall of Land-Rents, and the Increaſe of Trade in the Method it now ſtands, muſt proportionably decay <hi>England.</hi> Hum<g ref="char:EOLhyphen"/>bly offer'd to the Conſideration of the Parliament.</p>
+               <p>
+                  <pb facs="tcp:49610:18"/>
+                  <hi>Cardan</hi> his three Books of Conſolation, Engliſhed. Of great uſe in theſe Times.</p>
+               <p>The Art of Painting in Oyl. Wherein is included each particular Circumſtance relating to that Art and Myſtery, containing the beſt and moſt approved Rules, for Preparing, Mixing, and Working of Oyl Colours.</p>
+               <p>Advice to the Readers of the <hi>Common Prayer,</hi> and to the People attending the ſame, with a Preface con<g ref="char:EOLhyphen"/>cerning Divine Worſhip. Humbly offered to Con<g ref="char:EOLhyphen"/>ſideration, for promoting the greater Decency and Solemnity in performing the Office of Gods Pub<g ref="char:EOLhyphen"/>lick Worſhip. By a well meaning, (though unlearn<g ref="char:EOLhyphen"/>ed) Layick of the Church of <hi>England T. S.</hi>
+               </p>
+               <p>Chriſtianity in ſhort; Or the way to be a Good Chriſtian. Recommended to the uſe of ſuch as want either time or capacity for reading longer or learneder Diſcourſes. By <hi>C Ellis,</hi> Author of the <hi>Gentile Sinner.</hi>
+               </p>
+               <p>☞ The Young Clerk Compleated, being a Royal Sheet of Paper full of variety of the Clerks Hands, with breaks off the Court Letters, and 166 Words abbreviated in Court Hand, and fairly Written at length in Secratary. By <hi>John Ayres</hi> at the <hi>Hand</hi> and <hi>Pen</hi> in. St. <hi>Paul</hi>'s Church yard. Price 2 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> So contriv'd as to be cut in parts, and Roll'd up in a ſmall Pen-caſe. Sold (with the reſt of the Author's Works) by S. <hi>Crouch</hi> at the corner of <hi>Popes-head Ally</hi> in <hi>Cornhill.</hi>
+               </p>
+               <pb facs="tcp:49610:18"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
